@@ -1,0 +1,17 @@
+/*** Awesome Table ***/
+
+/* filtered results information : last - first / total number of result */
+.count {
+	border-top:1px solid #E5E5E5;
+	border-bottom:1px solid #E5E5E5;
+}
+
+/* loader progress bar */
+.loader {
+	background-color:#db4437;
+}
+
+
+.photo img {
+	object-fit: cover;
+}

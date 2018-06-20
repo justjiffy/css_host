@@ -14,5 +14,5 @@
 
 .photo img {
 	object-fit: cover;
-	max-height: 500px !important;
+	max-width: 500px !important;
 }

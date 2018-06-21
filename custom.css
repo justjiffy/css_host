@@ -20,4 +20,5 @@
 }
 iframe {
 	overflow: scroll !important;
+	-webkit-overflow-scrolling: touch;
 }

@@ -22,3 +22,6 @@ iframe {
 	overflow: scroll !important;
 	-webkit-overflow-scrolling: touch;
 }
+.awesomeTable-viz-slideShow .slideShow-image {
+	background-size: contain !important;
+}
